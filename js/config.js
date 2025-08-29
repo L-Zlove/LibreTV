@@ -77,7 +77,37 @@ const API_SITES = {
         name: '索尼资源',
         adult: false
     },
-
+    ck: {
+        api: 'https://ckzy.me/api.php/provide/vod',
+        name: 'ck资源',
+        adult: false
+    },
+    wolong: {
+        api: 'https://collect.wolongzy.cc/api.php/provide/vod',
+        name: '卧龙资源',
+        adult: false
+    },
+    wolong: {
+        api: 'https://collect.wolongzy.cc/api.php/provide/vod',
+        name: '卧龙资源',
+        adult: false
+    },
+    xinlang: {
+        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
+        name: '新浪资源',
+        adult: false
+    },
+        kuaiche: {
+        api: 'https://caiji.kuaichezy.org/api.php/provide/vod',
+        name: '快车资源',
+        adult: false
+    },
+        wujin: {
+        api: 'https://api.wujinapi.me/api.php/provide/vod',
+        name: '无尽资源',
+        adult: false
+    }
+    
 };
 
 // 定义合并方法
