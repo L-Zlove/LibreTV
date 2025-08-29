@@ -71,11 +71,13 @@ const API_SITES = {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
         name: 'U酷资源',
         adult: false
-    }，
-    ukuapi88: {
-        api: 'https://api.ukuapi88.com/api.php/provide/vod',
-        name: 'U酷资源',
+     },
+    suoni: {
+        api: 'https://suoniapi.com/api.php/provide/vod',
+        name: '索尼资源',
         adult: false
+    },
+
 };
 
 // 定义合并方法
