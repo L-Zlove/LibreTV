@@ -26,8 +26,52 @@ const API_SITES = {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
         adult: true
+    },
+    bfzy: {
+        api: 'https://bfzyapi.com/api.php/provide/vod',
+        name: '暴风资源',
+        adult: false
+    },
+    maotaizy: {
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
+        name: '茅台资源',
+        adult: false
+    },
+    ffzy: {
+        api: 'http://api.ffzyapi.com/api.php/provide/vod',
+        name: '非凡资源',
+        adult: false
+    },
+    lziapi: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '量子资源',
+        adult: false
+    },
+    zy360: {
+        api: 'https://360zyzz.com/api.php/provide/vod',
+        name: '360资源',
+        adult: false
+    },
+    zy360_2: {
+        api: 'https://360zyzz.com/api.php/seaxml/vod',
+        name: '360资源2',
+        adult: false
+    },
+    dbzy5: {
+        api: 'https://caiji.dbzy5.com/api.php/provide/vod',
+        name: '豆瓣资源',
+        adult: false
+    },
+    jszy: {
+        api: 'https://jszyapi.com/api.php/provide/vod',
+        name: '极速资源',
+        adult: false
+    },
+    ukuapi88: {
+        api: 'https://api.ukuapi88.com/api.php/provide/vod',
+        name: 'U酷资源',
+        adult: false
     }
-    //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
 // 定义合并方法
