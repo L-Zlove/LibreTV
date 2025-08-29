@@ -52,11 +52,6 @@ const API_SITES = {
         name: '360资源',
         adult: false
     },
-    zy360_2: {
-        api: 'https://360zyzz.com/api.php/seaxml/vod',
-        name: '360资源2',
-        adult: false
-    },
     dbzy5: {
         api: 'https://caiji.dbzy5.com/api.php/provide/vod',
         name: '豆瓣资源',
