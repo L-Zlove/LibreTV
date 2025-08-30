@@ -101,8 +101,13 @@ const API_SITES = {
         api: 'https://api.wujinapi.me/api.php/provide/vod',
         name: '无尽资源',
         adult: false
+    },
+        baidu: {
+        api: 'https://api.apibdzy.com/api.php/provide/vod',
+        name: '百度资源',
+        adult: false
     }
-    
+
 };
 
 // 定义合并方法
