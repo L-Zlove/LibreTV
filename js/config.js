@@ -106,6 +106,16 @@ const API_SITES = {
         api: 'https://api.apibdzy.com/api.php/provide/vod',
         name: '百度资源',
         adult: false
+    },
+        yinghua: {
+        api: 'https://m3u8.apiyhzy.com/api.php/seacms/vod',
+        name: '樱花资源',
+        adult: false
+    },
+        ikun: {
+        api: 'https://ikunzyapi.com/api.php/provide/vod',
+        name: '爱坤资源',
+        adult: false
     }
 
 };
