@@ -121,16 +121,6 @@ const API_SITES = {
         api: 'https://api.niuniuzy.me/api.php/provide/vod',
         name: '牛牛资源',
         adult: false
-    },
-        hsck: {
-        api: 'https://hsckzy888.com/api.php/provide/vod',
-        name: '黄色仓库',
-        adult: false
-    },
-        91: {
-        api: 'https://91jpzyw.com/api.php/provide/vod',
-        name: '91资源',
-        adult: false
     }
 
 };
