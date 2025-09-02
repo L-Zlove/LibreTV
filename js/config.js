@@ -82,12 +82,7 @@ const API_SITES = {
         name: '卧龙资源',
         adult: false
     },
-    wolong: {
-        api: 'https://collect.wolongzy.cc/api.php/provide/vod',
-        name: '卧龙资源',
-        adult: false
-    },
-    xinlang: {
+        xinlang: {
         api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
         name: '新浪资源',
         adult: false
