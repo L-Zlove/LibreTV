@@ -112,9 +112,9 @@ const API_SITES = {
         name: '爱坤资源',
         adult: false
     },
-        niuniu: {
-        api: 'https://api.niuniuzy.me/api.php/provide/vod',
-        name: '牛牛资源',
+        maoyan: {
+        api: 'https://api.maoyanapi.top/api.php/provide/vod',
+        name: '猫眼资源',
         adult: false
     }
 
