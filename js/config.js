@@ -116,8 +116,22 @@ const API_SITES = {
         api: 'https://api.maoyanapi.top/api.php/provide/vod',
         name: '猫眼资源',
         adult: false
+    },
+        huya: {
+        api: 'https://www.huyaapi.com/api.php/provide/vod',
+        name: '虎牙资源',
+        adult: false
+    },
+        hh: {
+        api: 'https://hhzyapi.com/api.php/provide/vod',
+        name: '豪华资源',
+        adult: false
+    },
+        gs: {
+        api: 'https://api.guangsuapi.com/api.php/provide/vod',
+        name: '光速资源',
+        adult: false
     }
-
 };
 
 // 定义合并方法
