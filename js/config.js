@@ -166,7 +166,7 @@ const API_SITES = {
         api: 'https://sdzyapi.com/api.php/provide/vod',
         name: '闪电资源',
         adult: false
-    },
+    }
 };
 
 // 定义合并方法
