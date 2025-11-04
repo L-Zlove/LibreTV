@@ -117,11 +117,6 @@ const API_SITES = {
         name: '猫眼资源',
         adult: false
     },
-        huya: {
-        api: 'https://www.huyaapi.com/api.php/provide/vod',
-        name: '虎牙资源',
-        adult: false
-    },
         hh: {
         api: 'https://hhzyapi.com/api.php/provide/vod',
         name: '豪华资源',
@@ -131,7 +126,47 @@ const API_SITES = {
         api: 'https://api.guangsuapi.com/api.php/provide/vod',
         name: '光速资源',
         adult: false
-    }
+    },
+        hh: {
+        api: 'https://hhzyapi.com/api.php/provide/vod',
+        name: '火狐资源',
+        adult: false
+    },
+        modu: {
+        api: 'https://caiji.moduapi.cc/api.php/provide/vod',
+        name: '魔都资源',
+        adult: false
+    },
+        zuida: {
+        api: 'https://zuidazy.me/api.php/provide/vod',
+        name: '最大资源',
+        adult: false
+    },
+        subo: {
+        api: 'https://subocaiji.com/api.php/provide/vod',
+        name: '速博资源',
+        adult: false
+    },
+        wuj: {
+        api: 'https://api.wujinapi.com/api.php/provide/vod',
+        name: '无尽资源',
+        adult: false
+    },
+        piaol: {
+        api: 'https://p2100.net/api.php/provide/vod',
+        name: '飘零资源',
+        adult: false
+    },
+        baidu: {
+        api: 'https://api.apibdzy.com/api.php/provide/vod',
+        name: '百度资源',
+        adult: false
+    },
+        shandian: {
+        api: 'https://sdzyapi.com/api.php/provide/vod',
+        name: '闪电资源',
+        adult: false
+    },
 };
 
 // 定义合并方法
